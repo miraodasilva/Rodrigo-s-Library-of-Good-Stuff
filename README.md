@@ -12,3 +12,4 @@ Compilation of resources for various topics related to Computing, Signal Process
 - Regex cheatsheet: https://www.rexegg.com/regex-quickstart.html
 - Google search cheatsheet: https://zapier.com/blog/google-search-cheat-sheet/
 - Stanford course on computer vision and deep learning - http://cs231n.stanford.edu/
+- Linux environment variables - https://en.wikibooks.org/wiki/Guide_to_Unix/Environment_Variables
